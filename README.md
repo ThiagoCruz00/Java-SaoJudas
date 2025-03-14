@@ -17,7 +17,6 @@ Este repositório foi criado com o objetivo de armazenar e organizar todo o conh
 O repositório está dividido em pastas, conforme as áreas de estudo e os semestres:
 
 1. **Semestre 1** :pencil2: : Disciplinas introdutórias e fundamentos.
-2. **Semestre 2** :books: : Aprofundamento de temas e início de projetos práticos.
 3. **Projetos** :wrench: : Projetos desenvolvidos ao longo do curso.
 4. **Artigos e Referências** :link: : Links e materiais para estudo adicional.
 5. **Reflexões** :bulb: : Anotações e pensamentos pessoais sobre o aprendizado.
